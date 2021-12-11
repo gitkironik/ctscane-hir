@@ -1,11 +1,11 @@
 {
-    "name": "xray-heroku",
-    "description": "deploy xray to heroku",
-    "keywords": ["xray"],
+    "name": "ctscane-heroku",
+    "description": "deploy ctscane to heroku",
+    "keywords": ["ctscane"],
     "env": {
         "UUID": {
-            "description": "xray UUID",
-            "value": "36cfc3de-ecfd-4752-ae6f-8f0f92035143"        
+            "description": "ctscane UUID",
+            "value": "d93079a5-2c45-4918-aa85-6b1fe4a026ff"        
         }
     },
     "repository": "https://github.com/iamtrazy/xray-heroku",
